@@ -1,6 +1,5 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from "../../Assets/home-main.svg";
 import Avatar from "../../Assets/avatar.png"
 import Particle from "../Particle";
 import Home2 from "./Home2";
@@ -31,7 +30,7 @@ function Home() {
               </div>
             </Col>
 
-            <Col md={5} style={{ paddingBottom: 20 }}>
+            <Col md={5} style={{ paddingTop: "3.2rem", paddingBottom: "15px" }}>
               <img
                 src={Avatar}
                 alt="home pic"
