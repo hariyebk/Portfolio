@@ -45,11 +45,11 @@ function Home2() {
               <br />
             </p>
           </Col>
-          <Col md={4} className="myAvtar">
+          {/* <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
             </Tilt>
-          </Col>
+          </Col> */}
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
