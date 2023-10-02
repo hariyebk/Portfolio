@@ -26,7 +26,7 @@ function Projects() {
               title="Worldwise"
               description="A platform where you keep track of your adventures Every where you travel around the world."
               ghLink="https://github.com/hariyebk/WorldWise"
-              demoLink="https://world-wise-7bw99l839-hariyebk.vercel.app/"
+              demoLink="https://world-wise-harun.vercel.app/"
             />
           </Col>
 
