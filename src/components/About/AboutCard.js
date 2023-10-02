@@ -9,7 +9,9 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hey there, folks! Brace yourselves, Introducing the one and only... me! cue applause. I am <span className="purple">Harun Bekri </span> but You can call me Hari for short, a self-proclaimed coding wizard and a learning machine from the quirky city of
-            <span className="purple"> Dire Dawa, Ethiopia.</span>
+            <i>
+              <span className="purple"> Dire Dawa, Ethiopia.</span>
+            </i>
             &nbsp; With a mischievous grin on my face and a keyboard at my fingertips, I craft lines of code that dance and sing, creating Web apps that will make your jaw drop.
             <br />
             

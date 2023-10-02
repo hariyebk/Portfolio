@@ -1,7 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
-import { CgWebsite } from "react-icons/cg";
 import { BsGithub } from "react-icons/bs";
 import {HiOutlineArrowTopRightOnSquare} from "react-icons/hi2"
 
@@ -16,7 +15,7 @@ function ProjectCards(props) {
         </Card.Text>
         <Button style={{marginTop: "18px", marginBottom: "10px"}} variant="primary" href={props.ghLink} target="_blank">
           <BsGithub /> &nbsp;
-          {props.isBlog ? "Blog" : "GitHub"}
+          GitHub
         </Button>
         {"\n"}
         {"\n"}
@@ -31,7 +30,7 @@ function ProjectCards(props) {
             style={{ marginLeft: "20px", marginTop: "18px", marginBottom: "10px" }}
           >
             <HiOutlineArrowTopRightOnSquare /> &nbsp;
-            {"Preview"}
+            Preview
           </Button>
         )}
       </Card.Body>

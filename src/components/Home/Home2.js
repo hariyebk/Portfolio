@@ -22,8 +22,11 @@ function Home2() {
             Imagine A chemical engineering student at Dire Dawa University, meticulously studying compounds, equations, and reactions. Now, imagine that same student, fueled by a caffeine-induced frenzy, embarking on a secret mission to conquer the world of coding. Yes, you heard that right—I was the one juggling chemicals by day and coding commands by night. I couldn't resist the allure of crafting codes and understanding how Technologies work. So I decided to pursue a computer science degree in the evenings while dutifully attending my chemical engineering classes during the day.
               <br /> <br />
               To further fuel my coding obsession, I ventured into the realm of <span className="purple">
-              <a href = "https://www.alxethiopia.com/" target="_blank">Alx Academy</a></span>, thinking I could conquer any curriculum that came my way, Little did I know that those months would be akin to a mad dash through an obstacle course. I felt like Indiana Jones outrunning a boulder, except the boulder was a relentless stream of assignments and the occasional bug that seemed determined to thwart my progress. <br /> <br />
-              Eventually <span className="purple"> I embraced a self-directed solo approach </span> to learn coding, seizing every opportunity in the arsenal of online resources to expand my knowledge and refine my skills. It was a journey of self-discovery, where I became my own teacher, mentor, and occasional therapist. I mean, who knew debugging could sometimes feel like therapy sessions with a stubborn program?
+              <a href = "https://www.alxethiopia.com/" rel = "noreferrer" target="_blank">Alx Academy</a></span>, thinking I could conquer any curriculum that came my way, Little did I know that those months would be akin to a mad dash through an obstacle course. I felt like Indiana Jones outrunning a boulder, except the boulder was a relentless stream of assignments and the occasional bug that seemed determined to thwart my progress. <br /> <br />
+              <i>
+              Eventually <span className="purple"> I embraced a self-directed solo approach </span> 
+              </i>
+              to learn coding, seizing every opportunity in the arsenal of online resources to expand my knowledge and refine my skills. It was a journey of self-discovery, where I became my own teacher, mentor, and occasional therapist. I mean, who knew debugging could sometimes feel like therapy sessions with a stubborn program?
               <br />
               <br />
               My favorite coding language has been
