@@ -14,10 +14,10 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed inspired by <a href="https://github.com/soumyajit4419"  rel = "noopener noreferrer" target="_blank"> Soumyajit Behera </a></h3>
+          <h6>Designed inspired by <a href="https://github.com/soumyajit4419"  rel = "noopener noreferrer" target="_blank"> Soumyajit Behera </a></h6>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Harun bekri</h3>
+          <h6>Copyright © {year} Harun bekri</h6>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -49,6 +49,16 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <AiFillInstagram />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://www.linkedin.com/in/hariyebk"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <FaLinkedinIn />
               </a>
             </li>
           </ul>
